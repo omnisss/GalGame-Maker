@@ -1,3 +1,3 @@
-# galgame
+# GalGame-Maker
 
-A new Flutter project.
+练手作，让galgame再次伟大qwq
