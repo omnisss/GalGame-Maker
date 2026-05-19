@@ -1,0 +1,30 @@
+{
+  "roleId": "10005",
+  "sprites": [
+    {
+      "title": "难过",
+      "frames": [
+        {
+          "title": "难过-3",
+          "file": "assets/sprites/难过/难过-1.png"
+        },
+        {
+          "title": "难过-2",
+          "file": "assets/sprites/难过/难过-2.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "title": "客厅",
+      "variants": [
+        {
+          "title": "客厅-白天",
+          "file": "assets/backgrounds/客厅/客厅-白天.png"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-22T17:28:31.576499"
+}

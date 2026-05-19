@@ -1,0 +1,18 @@
+{
+  "roleId": "10001",
+  "sprites": [
+    {
+      "id": "happy",
+      "title": "高兴",
+      "frames": [
+        {
+          "id": "happy_1",
+          "title": "高兴-1",
+          "file": "assets/sprites/高兴/高兴-1.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "updatedAt": "2026-02-27T23:25:22.672532"
+}

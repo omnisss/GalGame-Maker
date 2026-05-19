@@ -1,0 +1,50 @@
+{
+  "schema": 2,
+  "roleId": "10013",
+  "sprites": [
+    {
+      "outfit": "校服",
+      "emotion": "害羞",
+      "variants": [
+        {
+          "variant": "1",
+          "file": "assets/sprites/校服/害羞/1.png"
+        },
+        {
+          "variant": "2",
+          "file": "assets/sprites/校服/害羞/2.png"
+        }
+      ]
+    },
+    {
+      "outfit": "校服",
+      "emotion": "难过",
+      "variants": [
+        {
+          "variant": "1",
+          "file": "assets/sprites/校服/难过/1.png"
+        }
+      ]
+    },
+    {
+      "outfit": "私服",
+      "emotion": "惊讶",
+      "variants": [
+        {
+          "variant": "1",
+          "file": "assets/sprites/私服/惊讶/1.png"
+        },
+        {
+          "variant": "2",
+          "file": "assets/sprites/私服/惊讶/2.png"
+        },
+        {
+          "variant": "3",
+          "file": "assets/sprites/私服/惊讶/3.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "updatedAt": "2026-04-06T11:36:46.517695"
+}

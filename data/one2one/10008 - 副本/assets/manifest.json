@@ -1,0 +1,94 @@
+{
+  "roleId": "10008",
+  "sprites": [
+    {
+      "title": "高兴",
+      "frames": [
+        {
+          "title": "高兴-1",
+          "file": "assets/sprites/高兴/高兴-1.png"
+        },
+        {
+          "title": "高兴-2",
+          "file": "assets/sprites/高兴/高兴-2.png"
+        },
+        {
+          "title": "高兴-3",
+          "file": "assets/sprites/高兴/高兴-3.png"
+        }
+      ]
+    },
+    {
+      "title": "难过",
+      "frames": [
+        {
+          "title": "难过-1",
+          "file": "assets/sprites/难过/难过-1.png"
+        },
+        {
+          "title": "难过-2",
+          "file": "assets/sprites/难过/难过-2.png"
+        },
+        {
+          "title": "难过-3",
+          "file": "assets/sprites/难过/难过-3.png"
+        }
+      ]
+    },
+    {
+      "title": "惊讶",
+      "frames": [
+        {
+          "title": "惊讶-1",
+          "file": "assets/sprites/惊讶/惊讶-1.png"
+        },
+        {
+          "title": "惊讶-2",
+          "file": "assets/sprites/惊讶/惊讶-2.png"
+        }
+      ]
+    },
+    {
+      "title": "生气",
+      "frames": [
+        {
+          "title": "生气-1",
+          "file": "assets/sprites/生气/生气-1.png"
+        },
+        {
+          "title": "生气-2",
+          "file": "assets/sprites/生气/生气-2.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "title": "教室",
+      "variants": [
+        {
+          "title": "教室-白天",
+          "file": "assets/backgrounds/教室/教室-白天.png"
+        },
+        {
+          "title": "教室-晚上",
+          "file": "assets/backgrounds/教室/教室-晚上.png"
+        }
+      ]
+    },
+    {
+      "title": "家",
+      "variants": [
+        {
+          "title": "家-白天",
+          "file": "assets/backgrounds/家/家-白天.png"
+        },
+        {
+          "title": "家-晚上",
+          "file": "assets/backgrounds/家/家-晚上.png"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-22T19:11:30.039568"
+}

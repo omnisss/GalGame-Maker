@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "activeMode": "draft",
+  "draftSnapshot": {
+    "updatedAt": 1774171711
+  },
+  "gamingSnapshot": {
+    "updatedAt": null,
+    "established": false,
+    "runtimeState": null
+  },
+  "draftUpdatedAt": null,
+  "gamingUpdatedAt": null
+}

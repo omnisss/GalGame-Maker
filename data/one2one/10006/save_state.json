@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "activeMode": "gaming",
+  "draftSnapshot": {
+    "updatedAt": 1774176182
+  },
+  "gamingSnapshot": {
+    "updatedAt": 1774177765,
+    "runtimeState": {
+      "bgPath": "assets/backgrounds/教室/教室-晚上.png",
+      "spritePath": "assets/sprites/高兴/高兴-2.png",
+      "vars": {
+        "affection": 0
+      },
+      "cursor": {
+        "lastMsgId": 101
+      },
+      "historyTail": [
+        {
+          "role": "user",
+          "text": "咳咳，在不在",
+          "ts": 1774176696,
+          "msgId": 104
+        },
+        {
+          "role": "assistant",
+          "name": "因幡巡",
+          "text": "Ciallo～学长！当然在啦，一直在等学长找我呢！今天怎么想起突然来找我啦，是有什么好玩的事情要分享吗？",
+          "ts": 1774176706,
+          "msgId": 101,
+          "emotion": "高兴",
+          "background": "教室-晚上",
+          "time": {
+            "year": 2026,
+            "month": 3,
+            "day": 22,
+            "hour": 18,
+            "minute": 31
+          }
+        }
+      ],
+      "gameTime": {
+        "year": 2026,
+        "month": 3,
+        "day": 22,
+        "hour": 18,
+        "minute": 31
+      }
+    },
+    "established": true
+  }
+}

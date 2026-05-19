@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "activeMode": "gaming",
+  "draftSnapshot": {
+    "updatedAt": 1774260612
+  },
+  "gamingSnapshot": {
+    "updatedAt": 1775214371,
+    "established": true,
+    "runtimeState": {
+      "bgPath": "assets/backgrounds/家/家-白天.png",
+      "spritePath": "",
+      "vars": {
+        "affection": 0
+      },
+      "cursor": {
+        "lastMsgId": 301
+      },
+      "historyTail": [
+        {
+          "role": "user",
+          "text": "321",
+          "ts": 1775038193,
+          "msgId": 300
+        },
+        {
+          "role": "assistant",
+          "name": "休比",
+          "text": "在的。",
+          "ts": 1775038193,
+          "msgId": 301,
+          "emotion": "生气",
+          "background": "家-白天",
+          "time": {
+            "year": 2026,
+            "month": 3,
+            "day": 25,
+            "hour": 17,
+            "minute": 20
+          }
+        }
+      ],
+      "gameTime": {
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "hour": 17,
+        "minute": 20
+      },
+      "posture": "远离",
+      "action": "跳",
+      "outfit": "默认",
+      "emotion": "assets/sprites/生气/生气"
+    }
+  }
+}

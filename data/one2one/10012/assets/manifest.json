@@ -1,0 +1,40 @@
+{
+  "schema": 2,
+  "roleId": "10012",
+  "sprites": [
+    {
+      "outfit": "校服",
+      "emotion": "高兴",
+      "variants": [
+        {
+          "variant": "4",
+          "file": "assets/sprites/校服/高兴/4.png"
+        },
+        {
+          "variant": "5",
+          "file": "assets/sprites/校服/高兴/5.png"
+        },
+        {
+          "variant": "6",
+          "file": "assets/sprites/校服/高兴/6.png"
+        }
+      ]
+    },
+    {
+      "outfit": "校服",
+      "emotion": "难过",
+      "variants": [
+        {
+          "variant": "4",
+          "file": "assets/sprites/校服/难过/4.png"
+        },
+        {
+          "variant": "5",
+          "file": "assets/sprites/校服/难过/5.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "updatedAt": "2026-04-03T23:14:42.428255"
+}

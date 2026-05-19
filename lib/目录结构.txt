@@ -1,0 +1,68 @@
+lib/
+  main.dart
+  config.dart                 // host、token
+  models/
+    friend.dart               //好友信息
+    chat_message.dart         //空
+    ai_status.dart            //空
+  api/
+    api_client.dart           // http GET friends/history/status
+    ws_client.dart            // websocket connect/send/stream
+  stores/
+    connection_store.dart     // ws连接状态+延迟
+    chat_store.dart           // 当前会话消息列表、发送、加载历史
+    game_notice_store.dart
+    one2one_game_store.dart   
+  pages/
+    friends_list_view.dart    // 好友分类/列表
+    chat_page.dart            // 气泡聊天
+    chat_view.dart 
+    main_shell_page.dart      //主界面
+    main_home.dart            //负责拼装 MainHome
+    one2one_edit_page.dart    //一对一模式编辑页面
+    one2one_play_page.dart    //一对一模式控制器
+
+  widgets/
+    game_scene/
+      scene_state.dart          //一对一模式的页面参数
+      game_scene.dart           //一对一模式页面拼接
+      action/
+        actor_motion_runtime.dart //动作渲染，只接收参数
+        actor_motion_translator.dart//动作翻译，负责翻译ai指令为参数
+        actor_motion_spec.dart    //动作参数
+      layers/
+        screen_fx_layer.dart    //全局效果层
+        background_layer.dart   //背景层
+        scene_decor_layer.dart  //场景装饰层
+        actor_layer.dart        //立绘（角色）层
+        action_overlay_layer.dart//演出效果层
+        dialogue_layer.dart     //对话层
+        top_ui_layer.dart       //顶层 UI 层
+    pendant/
+      pendant_layer.dart         //flutter版物理引擎的挂坠
+    global_notice/
+      global_notice_host.dart      //全局提示UI
+    home/
+      home_root.dart               // MainHome：状态与布局
+      home_left_rail.dart          // 左侧菜单：游戏风格
+      home_right_panel.dart        // 右侧：开始游戏/读取存档/设置
+      start_game_panel.dart        // 两张模式大卡：模糊+呼吸光
+      library_grid.dart            // 存档网格：暗色卡片
+      game_fx.dart                 // 扫描线/暗角/粒子感（纯绘制）
+      game_theme.dart              // 统一颜色、装饰、阴影
+    one2one/
+      one2one_persona_panel.dart   //人设面板
+      one2one_persona_store.dart   //人设保存文件
+      one2one_assets_shared.dart   //资源面板共用的工具函数
+      one2one_sprites_panel.dart   //资源面板的立绘部分
+      one2one_background_panel.dart   //资源面板的背景部分
+      one2one_section_card.dart    //通用卡片
+      one2one_models.dart          //模型
+      one2one_input_dialog.dart    //添加资源弹窗
+      one2one_asset_store.dart     //资源保存文件
+      one2one_save_state_store.dart//保存状态
+    chat_bubble.dart          //空
+    status_badge.dart         //空
+    phone_mini_badge.dart     //右下角的迷你手机
+    phoneoverlay.dart         //手机界面
+    phoneframe.dart           //手机界面图

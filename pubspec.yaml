@@ -1,0 +1,41 @@
+name: galgame
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  web_socket_channel: ^3.0.3
+  provider: ^6.1.2
+  flame: ^1.35.1
+  flame_forge2d: ^0.19.2+4
+  file_picker: ^8.0.0
+  path_provider: ^2.1.4
+  path: ^1.9.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/■■■/
+    - assets/ui/phone_frame.png
+    - assets/ui/phone_bg.png
+    - assets/pendant/item1.png
+    - assets/pendant/item2.png
+    - assets/pendant/item3.png
+    - assets/pendant/item4.png
+    - assets/bg/
+  fonts:
+  - family: MyRounded
+    fonts:
+      - asset: assets/fonts/AlibabaPuHuiTi-3-95-ExtraBold.ttf

@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "roleId": "10009",
+  "sprites": [
+    {
+      "outfit": "校服",
+      "emotion": "高兴",
+      "variants": [
+        {
+          "variant": "1",
+          "file": "assets/sprites/校服/高兴/1.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [],
+  "updatedAt": "2026-04-03T19:07:06.245148"
+}

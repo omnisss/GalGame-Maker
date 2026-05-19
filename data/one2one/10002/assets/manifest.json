@@ -1,0 +1,30 @@
+{
+  "roleId": "10002",
+  "sprites": [
+    {
+      "id": "happy",
+      "title": "高兴",
+      "frames": [
+        {
+          "id": "happy_1",
+          "title": "高兴-1",
+          "file": "assets/sprites/高兴/高兴-1.png"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "classroom",
+      "title": "教室",
+      "variants": [
+        {
+          "id": "classroom_day",
+          "title": "教室-白天",
+          "file": "assets/backgrounds/教室/教室-白天.png"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-02-27T23:03:54.939851"
+}

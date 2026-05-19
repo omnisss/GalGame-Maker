@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "activeMode": "gaming",
+  "draftSnapshot": {
+    "updatedAt": 1774174354
+  },
+  "gamingSnapshot": {
+    "updatedAt": 1775036702,
+    "established": true,
+    "runtimeState": {
+      "bgPath": "assets/backgrounds/教室/教室-晚上.png",
+      "spritePath": "assets/sprites/难过/难过-1.png",
+      "vars": {
+        "affection": 0
+      },
+      "cursor": {
+        "lastMsgId": 112
+      },
+      "historyTail": [
+        {
+          "role": "user",
+          "text": "123",
+          "ts": 1775036702,
+          "msgId": 111
+        },
+        {
+          "role": "assistant",
+          "name": "休比",
+          "text": "嗯？怎么啦。",
+          "ts": 1775036702,
+          "msgId": 112,
+          "emotion": "难过",
+          "background": "家-白天",
+          "time": {
+            "year": 2026,
+            "month": 3,
+            "day": 26,
+            "hour": 8,
+            "minute": 20
+          }
+        }
+      ],
+      "gameTime": {
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "hour": 8,
+        "minute": 20
+      },
+      "posture": "靠近",
+      "action": "跳"
+    }
+  }
+}
